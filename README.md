@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grants77
+- 👋 Hi, I’m Grant
 - 👀 I’m interested in ...
   - Snowboarding
   - Coding
